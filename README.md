@@ -14,7 +14,8 @@ A multi-mode image classification API running entirely on Apple Silicon (M1/2) v
 
 ```bash
 # 1. Clone repository
-cd mps-inference-api
+git clone https://github.com/JanakiSubu/MPS-Inference-API.git
+cd MPS-Inference-API
 
 # 2. Setup environment
 python3 -m venv venv
